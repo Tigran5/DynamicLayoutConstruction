@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E11D5CC-8895-45A3-9340-0F8890B14580</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DynamicLayoutConstruction</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>28F15A60B7500621CBB8DF978D34706A6B5486A7</key>
+		<string>https://github.com/Tigran5/DynamicLayoutConstruction.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DynamicLayoutConstruction.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>28F15A60B7500621CBB8DF978D34706A6B5486A7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Tigran5/DynamicLayoutConstruction.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>28F15A60B7500621CBB8DF978D34706A6B5486A7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>28F15A60B7500621CBB8DF978D34706A6B5486A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DynamicLayoutConstruction</string>
+		</dict>
+	</array>
+</dict>
+</plist>
